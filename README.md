@@ -5,6 +5,6 @@ El Generator_QR es un proyecto realizado con JavaScript, el cual consume la Api 
 
 Api: https://goqr.me/api/
 
-URL: https://brayancardona12.github.io/Generator_QR/
+URL: https://byngit.github.io/Generator_QR/
 
 Gracias.
